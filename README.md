@@ -3,6 +3,22 @@
 [![npm version](https://badge.fury.io/js/sora2-mcp.svg)](https://www.npmjs.com/package/sora2-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 🎬 Demo Video
+
+![Sora2 MCP Demo](https://img.shields.io/badge/🎥-Sora2%20MCP%20登場！-ff69b4?style=for-the-badge)
+
+**昭和レトロCM風デモ動画を生成しました！**
+
+Video ID: `video_68e4f09ad79c8198a43196de75bbe1b10170aa9f31b5a6a2`
+- 🎨 スタイル: 1960年代 日本のTV CM風
+- ⏱️ 長さ: 4秒
+- 📐 解像度: 1280x720
+- 🤖 モデル: sora-2
+
+このデモは、Sora2 MCPを使って自動生成された昭和初期カラーTV時代のレトロなコマーシャル風の動画です。
+
+---
+
 The Universal MCP Server exposes tools for OpenAI's Sora API, enabling programmatic creation, management, and remixing of AI-generated videos. Designed for prompt-first usage in MCP-compatible clients.
 
 ## Installation
