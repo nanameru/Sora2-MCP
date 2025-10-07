@@ -28,13 +28,13 @@ npm run build
 Use this one-liner (replace with your real values):
 
 ```bash
-claude mcp add "Sora2 MCP" -s user -e SORA2_MCP_API_KEY="sk-your-real-key" -- npx sora2-mcp
+claude mcp add sora2-mcp -s user -e SORA2_MCP_API_KEY="sk-your-real-key" -- npx sora2-mcp
 ```
 
 To remove:
 
 ```bash
-claude mcp remove "Sora2 MCP"
+claude mcp remove sora2-mcp
 ```
 
 ## Setup: Cursor
