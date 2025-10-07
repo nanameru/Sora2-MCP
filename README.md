@@ -1,5 +1,8 @@
 # Sora2 MCP
 
+[![npm version](https://badge.fury.io/js/sora2-mcp.svg)](https://www.npmjs.com/package/sora2-mcp)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 The Universal MCP Server exposes tools for OpenAI's Sora API, enabling programmatic creation, management, and remixing of AI-generated videos. Designed for prompt-first usage in MCP-compatible clients.
 
 ## Installation

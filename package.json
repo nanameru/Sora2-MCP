@@ -5,7 +5,7 @@
   "type": "module",
   "main": "./build/index.js",
   "bin": {
-    "sora2-mcp": "./build/index.js"
+    "sora2-mcp": "build/index.js"
   },
   "files": [
     "build"
